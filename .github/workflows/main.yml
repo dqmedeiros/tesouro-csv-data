@@ -2,8 +2,15 @@ name: Atualizar Dados do Tesouro Direto
 
 on:
   schedule:
+    # Executa às 21:00 UTC (07:00 BRT) de segunda a sexta
     - cron: '0 10 * * 1-5'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-tesouro-data:
@@ -12,11 +19,13 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '20'
+        node-version: '24'
         
     - name: Download and process CSV
       run: |
