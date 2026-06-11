@@ -2,7 +2,6 @@ name: Atualizar Dados do Tesouro Direto
 
 on:
   schedule:
-    # Executa às 21:00 UTC (07:00 BRT) de segunda a sexta
     - cron: '0 10 * * 1-5'
   workflow_dispatch:
 
@@ -20,7 +19,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
         
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -28,12 +27,18 @@ jobs:
         node-version: '24'
         
     - name: Download and process CSV
-      run: |
-        node scripts/update-tesouro-data.js
+      run: node scripts/update-tesouro-data.js
         
     - name: Commit and push updated data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/tesouro-latest.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update Tesouro Direto data - $(date +%Y-%m-%d)" && git push)
+        if ! git diff --cached --quiet; then
+          git commit -m "Update Tesouro Direto data - $(date +%Y-%m-%d)"
+          git push "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF#refs/heads/}
+        else
+          echo "Nenhuma mudança para commitar"
+        fi
