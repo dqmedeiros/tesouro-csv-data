@@ -9,8 +9,7 @@
       "taxaVenda": "0,08",
       "puCompra": 19114.73,
       "puVenda": 19095.46,
-      "puBase": 19095.46,
-      "sortable": "2026-06-09"
+      "puBase": 19095.46
     },
     {
       "tipoTitulo": "Tesouro Selic",
@@ -20,8 +19,7 @@
       "taxaVenda": "0,02",
       "puCompra": 19180.14,
       "puVenda": 19168.46,
-      "puBase": 19168.46,
-      "sortable": "2026-06-09"
+      "puBase": 19168.46
     },
     {
       "tipoTitulo": "Tesouro Selic",
@@ -31,8 +29,7 @@
       "taxaVenda": "0,06",
       "puCompra": 19158.12,
       "puVenda": 19142.64,
-      "puBase": 19142.64,
-      "sortable": "2026-06-09"
+      "puBase": 19142.64
     },
     {
       "tipoTitulo": "Tesouro Selic",
@@ -42,8 +39,7 @@
       "taxaVenda": "0,03",
       "puCompra": 19175.12,
       "puVenda": 19161.5,
-      "puBase": 19161.5,
-      "sortable": "2026-06-09"
+      "puBase": 19161.5
     },
     {
       "tipoTitulo": "Tesouro Prefixado",
@@ -53,8 +49,7 @@
       "taxaVenda": "14,85",
       "puCompra": 536.48,
       "puVenda": 533.65,
-      "puBase": 533.65,
-      "sortable": "2026-06-09"
+      "puBase": 533.65
     },
     {
       "tipoTitulo": "Tesouro Prefixado",
@@ -64,8 +59,7 @@
       "taxaVenda": "14,29",
       "puCompra": 928.04,
       "puVenda": 927,
-      "puBase": 927,
-      "sortable": "2026-06-09"
+      "puBase": 927
     },
     {
       "tipoTitulo": "Tesouro Prefixado",
@@ -75,8 +69,7 @@
       "taxaVenda": "14,84",
       "puCompra": 807.21,
       "puVenda": 805.46,
-      "puBase": 805.46,
-      "sortable": "2026-06-09"
+      "puBase": 805.46
     },
     {
       "tipoTitulo": "Tesouro Prefixado",
@@ -86,8 +79,7 @@
       "taxaVenda": "14,85",
       "puCompra": 467.6,
       "puVenda": 464.65,
-      "puBase": 464.65,
-      "sortable": "2026-06-09"
+      "puBase": 464.65
     },
     {
       "tipoTitulo": "Tesouro Prefixado",
@@ -97,8 +89,7 @@
       "taxaVenda": "14,95",
       "puCompra": 703.46,
       "puVenda": 701.2,
-      "puBase": 701.2,
-      "sortable": "2026-06-09"
+      "puBase": 701.2
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -108,8 +99,7 @@
       "taxaVenda": "8,46",
       "puCompra": 4311.15,
       "puVenda": 4284.94,
-      "puBase": 4284.94,
-      "sortable": "2026-06-09"
+      "puBase": 4284.94
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -119,8 +109,7 @@
       "taxaVenda": "8,22",
       "puCompra": 4152.03,
       "puVenda": 4118.71,
-      "puBase": 4118.71,
-      "sortable": "2026-06-09"
+      "puBase": 4118.71
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -130,8 +119,7 @@
       "taxaVenda": "7,67",
       "puCompra": 3925.18,
       "puVenda": 3868.48,
-      "puBase": 3868.48,
-      "sortable": "2026-06-09"
+      "puBase": 3868.48
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -141,8 +129,7 @@
       "taxaVenda": "8,71",
       "puCompra": 4412.62,
       "puVenda": 4392.74,
-      "puBase": 4392.74,
-      "sortable": "2026-06-09"
+      "puBase": 4392.74
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -152,8 +139,7 @@
       "taxaVenda": "8,04",
       "puCompra": 4120.41,
       "puVenda": 4082.58,
-      "puBase": 4082.58,
-      "sortable": "2026-06-09"
+      "puBase": 4082.58
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -163,8 +149,7 @@
       "taxaVenda": "7,93",
       "puCompra": 4119.89,
       "puVenda": 4076.39,
-      "puBase": 4076.39,
-      "sortable": "2026-06-09"
+      "puBase": 4076.39
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -174,8 +159,7 @@
       "taxaVenda": "7,66",
       "puCompra": 3962.03,
       "puVenda": 3903.68,
-      "puBase": 3903.68,
-      "sortable": "2026-06-09"
+      "puBase": 3903.68
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -185,8 +169,7 @@
       "taxaVenda": "7,80",
       "puCompra": 3994.42,
       "puVenda": 3944.86,
-      "puBase": 3944.86,
-      "sortable": "2026-06-09"
+      "puBase": 3944.86
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -196,8 +179,7 @@
       "taxaVenda": "10,93",
       "puCompra": 4769.77,
       "puVenda": 4766.06,
-      "puBase": 4766.06,
-      "sortable": "2026-06-09"
+      "puBase": 4766.06
     },
     {
       "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
@@ -207,8 +189,7 @@
       "taxaVenda": "7,71",
       "puCompra": 4023.28,
       "puVenda": 3969.14,
-      "puBase": 3969.14,
-      "sortable": "2026-06-09"
+      "puBase": 3969.14
     },
     {
       "tipoTitulo": "Tesouro IPCA+",
@@ -218,8 +199,7 @@
       "taxaVenda": "8,42",
       "puCompra": 2892.96,
       "puVenda": 2871.94,
-      "puBase": 2871.94,
-      "sortable": "2026-06-09"
+      "puBase": 2871.94
     },
     {
       "tipoTitulo": "Tesouro IPCA+",
@@ -229,8 +209,7 @@
       "taxaVenda": "7,77",
       "puCompra": 1669.97,
       "puVenda": 1643.17,
-      "puBase": 1643.17,
-      "sortable": "2026-06-09"
+      "puBase": 1643.17
     },
     {
       "tipoTitulo": "Tesouro IPCA+",
@@ -240,8 +219,7 @@
       "taxaVenda": "7,59",
       "puCompra": 1217.83,
       "puVenda": 1191.99,
-      "puBase": 1191.99,
-      "sortable": "2026-06-09"
+      "puBase": 1191.99
     },
     {
       "tipoTitulo": "Tesouro IPCA+",
@@ -251,8 +229,7 @@
       "taxaVenda": "8,14",
       "puCompra": 2382.61,
       "puVenda": 2358.14,
-      "puBase": 2358.14,
-      "sortable": "2026-06-09"
+      "puBase": 2358.14
     },
     {
       "tipoTitulo": "Tesouro IPCA+",
@@ -262,8 +239,7 @@
       "taxaVenda": "8,68",
       "puCompra": 3721.54,
       "puVenda": 3707.8,
-      "puBase": 3707.8,
-      "sortable": "2026-06-09"
+      "puBase": 3707.8
     },
     {
       "tipoTitulo": "Tesouro IPCA+",
@@ -273,8 +249,7 @@
       "taxaVenda": "7,45",
       "puCompra": 862.83,
       "puVenda": 839.6,
-      "puBase": 839.6,
-      "sortable": "2026-06-09"
+      "puBase": 839.6
     },
     {
       "tipoTitulo": "Tesouro IPCA+",
@@ -284,8 +259,7 @@
       "taxaVenda": "10,93",
       "puCompra": 4632.81,
       "puVenda": 4629.2,
-      "puBase": 4629.2,
-      "sortable": "2026-06-09"
+      "puBase": 4629.2
     },
     {
       "tipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
@@ -295,8 +269,7 @@
       "taxaVenda": "8,66",
       "puCompra": 7881.96,
       "puVenda": 7847.58,
-      "puBase": 7847.58,
-      "sortable": "2026-06-09"
+      "puBase": 7847.58
     },
     {
       "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
@@ -306,8 +279,7 @@
       "taxaVenda": "14,80",
       "puCompra": 808.28,
       "puVenda": 802.88,
-      "puBase": 802.88,
-      "sortable": "2026-06-09"
+      "puBase": 802.88
     },
     {
       "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
@@ -317,8 +289,7 @@
       "taxaVenda": "14,46",
       "puCompra": 1020.94,
       "puVenda": 1019.82,
-      "puBase": 1019.82,
-      "sortable": "2026-06-09"
+      "puBase": 1019.82
     },
     {
       "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
@@ -328,8 +299,7 @@
       "taxaVenda": "14,91",
       "puCompra": 897.76,
       "puVenda": 893.98,
-      "puBase": 893.98,
-      "sortable": "2026-06-09"
+      "puBase": 893.98
     },
     {
       "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
@@ -339,8 +309,7 @@
       "taxaVenda": "14,94",
       "puCompra": 949.83,
       "puVenda": 947.13,
-      "puBase": 947.13,
-      "sortable": "2026-06-09"
+      "puBase": 947.13
     },
     {
       "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
@@ -350,8 +319,7 @@
       "taxaVenda": "14,86",
       "puCompra": 858.71,
       "puVenda": 854.17,
-      "puBase": 854.17,
-      "sortable": "2026-06-09"
+      "puBase": 854.17
     },
     {
       "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
@@ -361,8 +329,7 @@
       "taxaVenda": "14,81",
       "puCompra": 830.8,
       "puVenda": 825.75,
-      "puBase": 825.75,
-      "sortable": "2026-06-09"
+      "puBase": 825.75
     },
     {
       "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
@@ -372,8 +339,7 @@
       "taxaVenda": "7,38",
       "puCompra": 173.7,
       "puVenda": 164.92,
-      "puBase": 164.92,
-      "sortable": "2026-06-09"
+      "puBase": 164.92
     },
     {
       "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
@@ -383,8 +349,7 @@
       "taxaVenda": "7,38",
       "puCompra": 246.08,
       "puVenda": 234.93,
-      "puBase": 234.93,
-      "sortable": "2026-06-09"
+      "puBase": 234.93
     },
     {
       "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
@@ -394,8 +359,7 @@
       "taxaVenda": "7,52",
       "puCompra": 964.15,
       "puVenda": 941.25,
-      "puBase": 941.25,
-      "sortable": "2026-06-09"
+      "puBase": 941.25
     },
     {
       "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
@@ -405,8 +369,7 @@
       "taxaVenda": "7,87",
       "puCompra": 1890.53,
       "puVenda": 1866.48,
-      "puBase": 1866.48,
-      "sortable": "2026-06-09"
+      "puBase": 1866.48
     },
     {
       "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
@@ -416,8 +379,7 @@
       "taxaVenda": "7,39",
       "puCompra": 492.5,
       "puVenda": 475.46,
-      "puBase": 475.46,
-      "sortable": "2026-06-09"
+      "puBase": 475.46
     },
     {
       "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
@@ -427,8 +389,7 @@
       "taxaVenda": "7,38",
       "puCompra": 348.65,
       "puVenda": 334.71,
-      "puBase": 334.71,
-      "sortable": "2026-06-09"
+      "puBase": 334.71
     },
     {
       "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
@@ -438,8 +399,7 @@
       "taxaVenda": "7,66",
       "puCompra": 1346.23,
       "puVenda": 1321.65,
-      "puBase": 1321.65,
-      "sortable": "2026-06-09"
+      "puBase": 1321.65
     },
     {
       "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
@@ -449,8 +409,7 @@
       "taxaVenda": "7,44",
       "puCompra": 689.58,
       "puVenda": 669.44,
-      "puBase": 669.44,
-      "sortable": "2026-06-09"
+      "puBase": 669.44
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -460,8 +419,7 @@
       "taxaVenda": "8,65",
       "puCompra": 3709.77,
       "puVenda": 3696.22,
-      "puBase": 3696.22,
-      "sortable": "2026-06-09"
+      "puBase": 3696.22
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -471,8 +429,7 @@
       "taxaVenda": "7,77",
       "puCompra": 1695.76,
       "puVenda": 1669.08,
-      "puBase": 1669.08,
-      "sortable": "2026-06-09"
+      "puBase": 1669.08
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -482,8 +439,7 @@
       "taxaVenda": "7,93",
       "puCompra": 2079.46,
       "puVenda": 2053.59,
-      "puBase": 2053.59,
-      "sortable": "2026-06-09"
+      "puBase": 2053.59
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -493,8 +449,7 @@
       "taxaVenda": "8,34",
       "puCompra": 2731.21,
       "puVenda": 2709.25,
-      "puBase": 2709.25,
-      "sortable": "2026-06-09"
+      "puBase": 2709.25
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -504,8 +459,7 @@
       "taxaVenda": "8,60",
       "puCompra": 3425.91,
       "puVenda": 3409.64,
-      "puBase": 3409.64,
-      "sortable": "2026-06-09"
+      "puBase": 3409.64
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -515,8 +469,7 @@
       "taxaVenda": "8,54",
       "puCompra": 3168.18,
       "puVenda": 3149.67,
-      "puBase": 3149.67,
-      "sortable": "2026-06-09"
+      "puBase": 3149.67
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -526,8 +479,7 @@
       "taxaVenda": "7,66",
       "puCompra": 1384.3,
       "puVenda": 1357.97,
-      "puBase": 1357.97,
-      "sortable": "2026-06-09"
+      "puBase": 1357.97
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -537,8 +489,7 @@
       "taxaVenda": "7,87",
       "puCompra": 1942.32,
       "puVenda": 1916.02,
-      "puBase": 1916.02,
-      "sortable": "2026-06-09"
+      "puBase": 1916.02
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -548,8 +499,7 @@
       "taxaVenda": "7,62",
       "puCompra": 1296.42,
       "puVenda": 1270.35,
-      "puBase": 1270.35,
-      "sortable": "2026-06-09"
+      "puBase": 1270.35
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -559,8 +509,7 @@
       "taxaVenda": "7,69",
       "puCompra": 1481.5,
       "puVenda": 1454.95,
-      "puBase": 1454.95,
-      "sortable": "2026-06-09"
+      "puBase": 1454.95
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -570,8 +519,7 @@
       "taxaVenda": "8,45",
       "puCompra": 2937.22,
       "puVenda": 2916.83,
-      "puBase": 2916.83,
-      "sortable": "2026-06-09"
+      "puBase": 2916.83
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -581,8 +529,7 @@
       "taxaVenda": "7,59",
       "puCompra": 1213,
       "puVenda": 1187.28,
-      "puBase": 1187.28,
-      "sortable": "2026-06-09"
+      "puBase": 1187.28
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -592,8 +539,7 @@
       "taxaVenda": "7,82",
       "puCompra": 1814,
       "puVenda": 1787.46,
-      "puBase": 1787.46,
-      "sortable": "2026-06-09"
+      "puBase": 1787.46
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -603,8 +549,7 @@
       "taxaVenda": "7,56",
       "puCompra": 1135.58,
       "puVenda": 1110.27,
-      "puBase": 1110.27,
-      "sortable": "2026-06-09"
+      "puBase": 1110.27
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -614,8 +559,7 @@
       "taxaVenda": "7,73",
       "puCompra": 1584.37,
       "puVenda": 1557.7,
-      "puBase": 1557.7,
-      "sortable": "2026-06-09"
+      "puBase": 1557.7
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -625,8 +569,7 @@
       "taxaVenda": "8,02",
       "puCompra": 2222.13,
       "puVenda": 2196.93,
-      "puBase": 2196.93,
-      "sortable": "2026-06-09"
+      "puBase": 2196.93
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -636,8 +579,7 @@
       "taxaVenda": "8,69",
       "puCompra": 3619.68,
       "puVenda": 3609.48,
-      "puBase": 3609.48,
-      "sortable": "2026-06-09"
+      "puBase": 3609.48
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -647,8 +589,7 @@
       "taxaVenda": "8,12",
       "puCompra": 2376.54,
       "puVenda": 2352.2,
-      "puBase": 2352.2,
-      "sortable": "2026-06-09"
+      "puBase": 2352.2
     },
     {
       "tipoTitulo": "Tesouro Educa+",
@@ -658,9 +599,8 @@
       "taxaVenda": "8,22",
       "puCompra": 2546.87,
       "puVenda": 2523.58,
-      "puBase": 2523.58,
-      "sortable": "2026-06-09"
+      "puBase": 2523.58
     }
   ],
-  "updatedAt": "2026-06-11T02:25:17.584Z"
+  "updatedAt": "2026-06-11T04:15:31.039Z"
 }
