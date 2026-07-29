@@ -1,606 +1,606 @@
 {
-  "lastDate": "2026-07-27",
+  "lastDate": "2026-07-28",
   "rows": [
     {
       "tipoTitulo": "Tesouro Selic",
-      "dataVencimento": "01/03/2031",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "0,07",
-      "taxaVenda": "0,08",
-      "puCompra": 19462.16,
-      "puVenda": 19442.95,
-      "puBase": 19442.95
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado",
-      "dataVencimento": "01/01/2027",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "13,72",
-      "taxaVenda": "13,84",
-      "puCompra": 946.38,
-      "puVenda": 945.47,
-      "puBase": 945.47
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado",
-      "dataVencimento": "01/01/2031",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,60",
-      "taxaVenda": "14,72",
-      "puCompra": 549.25,
-      "puVenda": 546.43,
-      "puBase": 546.43
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado",
-      "dataVencimento": "01/01/2032",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,69",
-      "taxaVenda": "14,81",
-      "puCompra": 477.25,
-      "puVenda": 474.3,
-      "puBase": 474.3
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado",
-      "dataVencimento": "01/01/2028",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,00",
-      "taxaVenda": "14,12",
-      "puCompra": 829.72,
-      "puVenda": 828.04,
-      "puBase": 828.04
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado",
-      "dataVencimento": "01/01/2029",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,34",
-      "taxaVenda": "14,46",
-      "puCompra": 724.12,
-      "puVenda": 721.91,
-      "puBase": 721.91
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/08/2032",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,24",
-      "taxaVenda": "8,36",
-      "puCompra": 4396.17,
-      "puVenda": 4370.46,
-      "puBase": 4370.46
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/05/2045",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,61",
-      "taxaVenda": "7,73",
-      "puCompra": 4079.62,
-      "puVenda": 4029.8,
-      "puBase": 4029.8
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/08/2026",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "12,53",
-      "taxaVenda": "12,65",
-      "puCompra": 4852.3,
-      "puVenda": 4849.37,
-      "puBase": 4849.37
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/08/2060",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,47",
-      "taxaVenda": "7,59",
-      "puCompra": 4051.57,
-      "puVenda": 3992.49,
-      "puBase": 3992.49
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/08/2030",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,29",
-      "taxaVenda": "8,41",
-      "puCompra": 4524.3,
-      "puVenda": 4504.96,
-      "puBase": 4504.96
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/08/2040",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,78",
-      "taxaVenda": "7,90",
-      "puCompra": 4189.75,
-      "puVenda": 4146.46,
-      "puBase": 4146.46
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/05/2035",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,10",
-      "taxaVenda": "8,22",
-      "puCompra": 4213.39,
-      "puVenda": 4180.57,
-      "puBase": 4180.57
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/05/2037",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,93",
-      "taxaVenda": "8,05",
-      "puCompra": 4177.37,
-      "puVenda": 4140,
-      "puBase": 4140
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/05/2055",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,49",
-      "taxaVenda": "7,61",
-      "puCompra": 4008.49,
-      "puVenda": 3951.28,
-      "puBase": 3951.28
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-      "dataVencimento": "15/08/2050",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,58",
-      "taxaVenda": "7,70",
-      "puCompra": 4084.56,
-      "puVenda": 4030.52,
-      "puBase": 4030.52
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+",
-      "dataVencimento": "15/08/2026",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "12,53",
-      "taxaVenda": "12,65",
-      "puCompra": 4712.98,
-      "puVenda": 4710.12,
-      "puBase": 4710.12
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+",
-      "dataVencimento": "15/08/2032",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,23",
-      "taxaVenda": "8,35",
-      "puCompra": 2947.89,
-      "puVenda": 2927.16,
-      "puBase": 2927.16
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+",
-      "dataVencimento": "15/08/2040",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,64",
-      "taxaVenda": "7,76",
-      "puCompra": 1695.89,
-      "puVenda": 1669.08,
-      "puBase": 1669.08
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+",
-      "dataVencimento": "15/08/2050",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,37",
-      "taxaVenda": "7,49",
-      "puCompra": 866.99,
-      "puVenda": 843.84,
-      "puBase": 843.84
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+",
-      "dataVencimento": "15/05/2029",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,23",
-      "taxaVenda": "8,35",
-      "puCompra": 3810.71,
-      "puVenda": 3797.54,
-      "puBase": 3797.54
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+",
-      "dataVencimento": "15/05/2035",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,07",
-      "taxaVenda": "8,19",
-      "puCompra": 2407.82,
-      "puVenda": 2383.66,
-      "puBase": 2383.66
-    },
-    {
-      "tipoTitulo": "Tesouro IPCA+",
-      "dataVencimento": "15/05/2045",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,40",
-      "taxaVenda": "7,52",
-      "puCompra": 1249.98,
-      "puVenda": 1223.73,
-      "puBase": 1223.73
-    },
-    {
-      "tipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
-      "dataVencimento": "01/01/2031",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,25",
-      "taxaVenda": "8,37",
-      "puCompra": 7535.94,
-      "puVenda": 7506.08,
-      "puBase": 7506.08
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-      "dataVencimento": "01/01/2037",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,73",
-      "taxaVenda": "14,85",
-      "puCompra": 771.98,
-      "puVenda": 766.64,
-      "puBase": 766.64
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-      "dataVencimento": "01/01/2027",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "13,73",
-      "taxaVenda": "13,85",
-      "puCompra": 992.54,
-      "puVenda": 991.58,
-      "puBase": 991.58
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-      "dataVencimento": "01/01/2035",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,74",
-      "taxaVenda": "14,86",
-      "puCompra": 795.08,
-      "puVenda": 790.1,
-      "puBase": 790.1
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-      "dataVencimento": "01/01/2033",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,73",
-      "taxaVenda": "14,85",
-      "puCompra": 825.81,
-      "puVenda": 821.33,
-      "puBase": 821.33
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-      "dataVencimento": "01/01/2029",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,24",
-      "taxaVenda": "14,36",
-      "puCompra": 928.57,
-      "puVenda": 925.95,
-      "puBase": 925.95
-    },
-    {
-      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-      "dataVencimento": "01/01/2031",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "14,64",
-      "taxaVenda": "14,76",
-      "puCompra": 869.37,
-      "puVenda": 865.64,
-      "puBase": 865.64
-    },
-    {
-      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-      "dataVencimento": "15/12/2084",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,15",
-      "taxaVenda": "7,27",
-      "puCompra": 184.58,
-      "puVenda": 175.27,
-      "puBase": 175.27
-    },
-    {
-      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-      "dataVencimento": "15/12/2074",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,16",
-      "taxaVenda": "7,28",
-      "puCompra": 365.48,
-      "puVenda": 350.94,
-      "puBase": 350.94
-    },
-    {
-      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-      "dataVencimento": "15/12/2064",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,27",
-      "taxaVenda": "7,39",
-      "puCompra": 707.61,
-      "puVenda": 687.09,
-      "puBase": 687.09
-    },
-    {
-      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-      "dataVencimento": "15/12/2079",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,15",
-      "taxaVenda": "7,27",
-      "puCompra": 260.16,
-      "puVenda": 248.41,
-      "puBase": 248.41
-    },
-    {
-      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-      "dataVencimento": "15/12/2049",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,72",
-      "taxaVenda": "7,84",
-      "puCompra": 1923.5,
-      "puVenda": 1899.46,
-      "puBase": 1899.46
-    },
-    {
-      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-      "dataVencimento": "15/12/2054",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,53",
-      "taxaVenda": "7,65",
-      "puCompra": 1367.2,
-      "puVenda": 1342.55,
-      "puBase": 1342.55
-    },
-    {
-      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-      "dataVencimento": "15/12/2069",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,20",
-      "taxaVenda": "7,32",
-      "puCompra": 509.46,
-      "puVenda": 491.93,
-      "puBase": 491.93
-    },
-    {
-      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-      "dataVencimento": "15/12/2059",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,36",
-      "taxaVenda": "7,48",
-      "puCompra": 985.22,
-      "puVenda": 962.03,
-      "puBase": 962.03
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2048",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,40",
-      "taxaVenda": "7,52",
-      "puCompra": 1159.87,
-      "puVenda": 1134.28,
-      "puBase": 1134.28
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2043",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,59",
-      "taxaVenda": "7,71",
-      "puCompra": 1611.19,
-      "puVenda": 1584.44,
-      "puBase": 1584.44
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2038",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,93",
-      "taxaVenda": "8,05",
-      "puCompra": 2248.33,
-      "puVenda": 2223.36,
-      "puBase": 2223.36
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2030",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,28",
-      "taxaVenda": "8,40",
-      "puCompra": 3535.68,
-      "puVenda": 3526.19,
-      "puBase": 3526.19
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2036",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,09",
-      "taxaVenda": "8,21",
-      "puCompra": 2586.36,
-      "puVenda": 2563.31,
-      "puBase": 2563.31
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2037",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,01",
-      "taxaVenda": "8,13",
-      "puCompra": 2409.42,
-      "puVenda": 2385.31,
-      "puBase": 2385.31
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2031",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,26",
-      "taxaVenda": "8,38",
-      "puCompra": 3792.39,
-      "puVenda": 3779.41,
-      "puBase": 3779.41
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2042",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,65",
-      "taxaVenda": "7,77",
-      "puCompra": 1719.85,
-      "puVenda": 1693.2,
-      "puBase": 1693.2
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2039",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,85",
-      "taxaVenda": "7,97",
-      "puCompra": 2101.07,
-      "puVenda": 2075.44,
-      "puBase": 2075.44
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2035",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,15",
-      "taxaVenda": "8,27",
-      "puCompra": 2784.07,
-      "puVenda": 2762.33,
-      "puBase": 2762.33
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2033",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,23",
-      "taxaVenda": "8,35",
-      "puCompra": 3243.06,
-      "puVenda": 3224.85,
-      "puBase": 3224.85
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2045",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,49",
-      "taxaVenda": "7,61",
-      "puCompra": 1414.7,
-      "puVenda": 1388.11,
-      "puBase": 1388.11
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2040",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,77",
-      "taxaVenda": "7,89",
-      "puCompra": 1965.89,
-      "puVenda": 1939.74,
-      "puBase": 1939.74
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2046",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,45",
-      "taxaVenda": "7,57",
-      "puCompra": 1325.44,
-      "puVenda": 1299.08,
-      "puBase": 1299.08
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2044",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,54",
-      "taxaVenda": "7,66",
-      "puCompra": 1508.99,
-      "puVenda": 1482.28,
-      "puBase": 1482.28
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2034",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,20",
-      "taxaVenda": "8,32",
-      "puCompra": 3002.04,
-      "puVenda": 2981.89,
-      "puBase": 2981.89
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2047",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,42",
-      "taxaVenda": "7,54",
-      "puCompra": 1240.69,
-      "puVenda": 1214.66,
-      "puBase": 1214.66
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2041",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "7,71",
-      "taxaVenda": "7,83",
-      "puCompra": 1837.72,
-      "puVenda": 1811.26,
-      "puBase": 1811.26
-    },
-    {
-      "tipoTitulo": "Tesouro Educa+",
-      "dataVencimento": "15/12/2032",
-      "dataBase": "27/07/2026",
-      "taxaCompra": "8,26",
-      "taxaVenda": "8,38",
-      "puCompra": 3504.64,
-      "puVenda": 3488.8,
-      "puBase": 3488.8
-    },
-    {
-      "tipoTitulo": "Tesouro Selic",
       "dataVencimento": "01/03/2027",
-      "dataBase": "27/07/2026",
+      "dataBase": "28/07/2026",
       "taxaCompra": "0,00",
       "taxaVenda": "0,01",
-      "puCompra": 19527.87,
-      "puVenda": 19516.41,
-      "puBase": 19516.41
+      "puCompra": 19538.09,
+      "puVenda": 19526.63,
+      "puBase": 19526.63
     },
     {
       "tipoTitulo": "Tesouro Selic",
       "dataVencimento": "01/03/2028",
-      "dataBase": "27/07/2026",
+      "dataBase": "28/07/2026",
       "taxaCompra": "0,02",
       "taxaVenda": "0,03",
-      "puCompra": 19523.12,
-      "puVenda": 19509.7,
-      "puBase": 19509.7
+      "puCompra": 19533.38,
+      "puVenda": 19519.97,
+      "puBase": 19519.97
     },
     {
       "tipoTitulo": "Tesouro Selic",
       "dataVencimento": "01/03/2029",
-      "dataBase": "27/07/2026",
+      "dataBase": "28/07/2026",
       "taxaCompra": "0,04",
       "taxaVenda": "0,05",
-      "puCompra": 19507.99,
-      "puVenda": 19492.64,
-      "puBase": 19492.64
+      "puCompra": 19518.47,
+      "puVenda": 19503.12,
+      "puBase": 19503.12
+    },
+    {
+      "tipoTitulo": "Tesouro Selic",
+      "dataVencimento": "01/03/2031",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "0,07",
+      "taxaVenda": "0,08",
+      "puCompra": 19472.44,
+      "puVenda": 19453.24,
+      "puBase": 19453.24
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado",
+      "dataVencimento": "01/01/2029",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "14,21",
+      "taxaVenda": "14,33",
+      "puCompra": 726.49,
+      "puVenda": 724.28,
+      "puBase": 724.28
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado",
+      "dataVencimento": "01/01/2028",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "13,89",
+      "taxaVenda": "14,01",
+      "puCompra": 831.29,
+      "puVenda": 829.61,
+      "puBase": 829.61
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado",
+      "dataVencimento": "01/01/2027",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "13,65",
+      "taxaVenda": "13,77",
+      "puCompra": 947.12,
+      "puVenda": 946.21,
+      "puBase": 946.21
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado",
+      "dataVencimento": "01/01/2031",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "14,52",
+      "taxaVenda": "14,64",
+      "puCompra": 551.24,
+      "puVenda": 548.41,
+      "puBase": 548.41
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado",
+      "dataVencimento": "01/01/2032",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "14,64",
+      "taxaVenda": "14,76",
+      "puCompra": 478.63,
+      "puVenda": 475.68,
+      "puBase": 475.68
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/08/2026",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "13,10",
+      "taxaVenda": "13,22",
+      "puCompra": 4853.67,
+      "puVenda": 4850.66,
+      "puBase": 4850.66
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/08/2040",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,79",
+      "taxaVenda": "7,91",
+      "puCompra": 4187.8,
+      "puVenda": 4144.57,
+      "puBase": 4144.57
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/08/2030",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,22",
+      "taxaVenda": "8,34",
+      "puCompra": 4536.35,
+      "puVenda": 4516.97,
+      "puBase": 4516.97
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/05/2035",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,09",
+      "taxaVenda": "8,21",
+      "puCompra": 4217.62,
+      "puVenda": 4184.78,
+      "puBase": 4184.78
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/08/2032",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,20",
+      "taxaVenda": "8,32",
+      "puCompra": 4405.92,
+      "puVenda": 4380.16,
+      "puBase": 4380.16
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/08/2060",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,50",
+      "taxaVenda": "7,62",
+      "puCompra": 4038.48,
+      "puVenda": 3979.76,
+      "puBase": 3979.76
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/08/2050",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,60",
+      "taxaVenda": "7,72",
+      "puCompra": 4077.21,
+      "puVenda": 4023.35,
+      "puBase": 4023.35
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/05/2045",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,63",
+      "taxaVenda": "7,75",
+      "puCompra": 4073,
+      "puVenda": 4023.32,
+      "puBase": 4023.32
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/05/2055",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,52",
+      "taxaVenda": "7,64",
+      "puCompra": 3995.87,
+      "puVenda": 3938.98,
+      "puBase": 3938.98
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+      "dataVencimento": "15/05/2037",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,95",
+      "taxaVenda": "8,07",
+      "puCompra": 4172.94,
+      "puVenda": 4135.66,
+      "puBase": 4135.66
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+",
+      "dataVencimento": "15/05/2045",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,43",
+      "taxaVenda": "7,55",
+      "puCompra": 1243.92,
+      "puVenda": 1217.81,
+      "puBase": 1217.81
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+",
+      "dataVencimento": "15/05/2035",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,07",
+      "taxaVenda": "8,19",
+      "puCompra": 2408.74,
+      "puVenda": 2384.58,
+      "puBase": 2384.58
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+",
+      "dataVencimento": "15/08/2026",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "13,10",
+      "taxaVenda": "13,22",
+      "puCompra": 4714.3,
+      "puVenda": 4711.37,
+      "puBase": 4711.37
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+",
+      "dataVencimento": "15/08/2050",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,40",
+      "taxaVenda": "7,52",
+      "puCompra": 861.53,
+      "puVenda": 838.54,
+      "puBase": 838.54
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+",
+      "dataVencimento": "15/05/2029",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,13",
+      "taxaVenda": "8,25",
+      "puCompra": 3821.94,
+      "puVenda": 3808.76,
+      "puBase": 3808.76
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+",
+      "dataVencimento": "15/08/2040",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,66",
+      "taxaVenda": "7,78",
+      "puCompra": 1692.12,
+      "puVenda": 1665.37,
+      "puBase": 1665.37
+    },
+    {
+      "tipoTitulo": "Tesouro IPCA+",
+      "dataVencimento": "15/08/2032",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,20",
+      "taxaVenda": "8,32",
+      "puCompra": 2953.96,
+      "puVenda": 2933.19,
+      "puBase": 2933.19
+    },
+    {
+      "tipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
+      "dataVencimento": "01/01/2031",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,19",
+      "taxaVenda": "8,31",
+      "puCompra": 7550.86,
+      "puVenda": 7520.97,
+      "puBase": 7520.97
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+      "dataVencimento": "01/01/2033",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "14,70",
+      "taxaVenda": "14,82",
+      "puCompra": 827.27,
+      "puVenda": 822.78,
+      "puBase": 822.78
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+      "dataVencimento": "01/01/2027",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "13,66",
+      "taxaVenda": "13,78",
+      "puCompra": 993.31,
+      "puVenda": 992.35,
+      "puBase": 992.35
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+      "dataVencimento": "01/01/2035",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "14,73",
+      "taxaVenda": "14,85",
+      "puCompra": 795.9,
+      "puVenda": 790.91,
+      "puBase": 790.91
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+      "dataVencimento": "01/01/2031",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "14,56",
+      "taxaVenda": "14,68",
+      "puCompra": 872.01,
+      "puVenda": 868.28,
+      "puBase": 868.28
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+      "dataVencimento": "01/01/2037",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "14,73",
+      "taxaVenda": "14,85",
+      "puCompra": 772.4,
+      "puVenda": 767.06,
+      "puBase": 767.06
+    },
+    {
+      "tipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+      "dataVencimento": "01/01/2029",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "14,11",
+      "taxaVenda": "14,23",
+      "puCompra": 931.36,
+      "puVenda": 928.74,
+      "puBase": 928.74
+    },
+    {
+      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+      "dataVencimento": "15/12/2079",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,20",
+      "taxaVenda": "7,32",
+      "puCompra": 255.32,
+      "puVenda": 243.81,
+      "puBase": 243.81
+    },
+    {
+      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+      "dataVencimento": "15/12/2054",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,56",
+      "taxaVenda": "7,68",
+      "puCompra": 1361.61,
+      "puVenda": 1337.08,
+      "puBase": 1337.08
+    },
+    {
+      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+      "dataVencimento": "15/12/2084",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,20",
+      "taxaVenda": "7,32",
+      "puCompra": 180.73,
+      "puVenda": 171.62,
+      "puBase": 171.62
+    },
+    {
+      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+      "dataVencimento": "15/12/2059",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,40",
+      "taxaVenda": "7,52",
+      "puCompra": 977.89,
+      "puVenda": 954.89,
+      "puBase": 954.89
+    },
+    {
+      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+      "dataVencimento": "15/12/2049",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,73",
+      "taxaVenda": "7,85",
+      "puCompra": 1922.25,
+      "puVenda": 1898.24,
+      "puBase": 1898.24
+    },
+    {
+      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+      "dataVencimento": "15/12/2064",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,31",
+      "taxaVenda": "7,43",
+      "puCompra": 701.03,
+      "puVenda": 680.72,
+      "puBase": 680.72
+    },
+    {
+      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+      "dataVencimento": "15/12/2069",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,25",
+      "taxaVenda": "7,37",
+      "puCompra": 502.33,
+      "puVenda": 485.06,
+      "puBase": 485.06
+    },
+    {
+      "tipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+      "dataVencimento": "15/12/2074",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,21",
+      "taxaVenda": "7,33",
+      "puCompra": 359.53,
+      "puVenda": 345.23,
+      "puBase": 345.23
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2043",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,61",
+      "taxaVenda": "7,73",
+      "puCompra": 1607.38,
+      "puVenda": 1580.71,
+      "puBase": 1580.71
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2032",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,20",
+      "taxaVenda": "8,32",
+      "puCompra": 3513.26,
+      "puVenda": 3497.39,
+      "puBase": 3497.39
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2048",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,43",
+      "taxaVenda": "7,55",
+      "puCompra": 1153.94,
+      "puVenda": 1128.49,
+      "puBase": 1128.49
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2042",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,67",
+      "taxaVenda": "7,79",
+      "puCompra": 1716.11,
+      "puVenda": 1689.53,
+      "puBase": 1689.53
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2039",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,88",
+      "taxaVenda": "8,00",
+      "puCompra": 2095.61,
+      "puVenda": 2070.06,
+      "puBase": 2070.06
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2041",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,73",
+      "taxaVenda": "7,85",
+      "puCompra": 1834.08,
+      "puVenda": 1807.68,
+      "puBase": 1807.68
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2047",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,45",
+      "taxaVenda": "7,57",
+      "puCompra": 1234.68,
+      "puVenda": 1208.79,
+      "puBase": 1208.79
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2035",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,13",
+      "taxaVenda": "8,25",
+      "puCompra": 2788.61,
+      "puVenda": 2766.83,
+      "puBase": 2766.83
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2046",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,48",
+      "taxaVenda": "7,60",
+      "puCompra": 1319.4,
+      "puVenda": 1293.17,
+      "puBase": 1293.17
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2034",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,16",
+      "taxaVenda": "8,28",
+      "puCompra": 3009.56,
+      "puVenda": 2989.37,
+      "puBase": 2989.37
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2031",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,19",
+      "taxaVenda": "8,31",
+      "puCompra": 3800.58,
+      "puVenda": 3787.59,
+      "puBase": 3787.59
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2044",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,56",
+      "taxaVenda": "7,68",
+      "puCompra": 1505.14,
+      "puVenda": 1478.52,
+      "puBase": 1478.52
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2037",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,02",
+      "taxaVenda": "8,14",
+      "puCompra": 2408.4,
+      "puVenda": 2384.3,
+      "puBase": 2384.3
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2036",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,08",
+      "taxaVenda": "8,20",
+      "puCompra": 2589.2,
+      "puVenda": 2566.13,
+      "puBase": 2566.13
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2030",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,21",
+      "taxaVenda": "8,33",
+      "puCompra": 3541.8,
+      "puVenda": 3532.3,
+      "puBase": 3532.3
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2033",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "8,18",
+      "taxaVenda": "8,30",
+      "puCompra": 3251.4,
+      "puVenda": 3233.16,
+      "puBase": 3233.16
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2040",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,80",
+      "taxaVenda": "7,92",
+      "puCompra": 1960.23,
+      "puVenda": 1934.17,
+      "puBase": 1934.17
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2038",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,95",
+      "taxaVenda": "8,07",
+      "puCompra": 2245.14,
+      "puVenda": 2220.22,
+      "puBase": 2220.22
+    },
+    {
+      "tipoTitulo": "Tesouro Educa+",
+      "dataVencimento": "15/12/2045",
+      "dataBase": "28/07/2026",
+      "taxaCompra": "7,51",
+      "taxaVenda": "7,63",
+      "puCompra": 1410.83,
+      "puVenda": 1384.33,
+      "puBase": 1384.33
     }
   ],
-  "updatedAt": "2026-07-28T21:57:59.506Z"
+  "updatedAt": "2026-07-29T21:54:15.370Z"
 }
