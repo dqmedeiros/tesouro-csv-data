@@ -3,26 +3,6 @@
   "rows": [
     {
       "tipoTitulo": "Tesouro Selic",
-      "dataVencimento": "01/03/2028",
-      "dataBase": "21/08/2026",
-      "taxaCompra": "0,01",
-      "taxaVenda": "0,02",
-      "puCompra": 19718.74,
-      "puVenda": 19705.51,
-      "puBase": 19705.51
-    },
-    {
-      "tipoTitulo": "Tesouro Selic",
-      "dataVencimento": "01/03/2027",
-      "dataBase": "21/08/2026",
-      "taxaCompra": "-0,00",
-      "taxaVenda": "0,01",
-      "puCompra": 19722.21,
-      "puVenda": 19710.95,
-      "puBase": 19710.95
-    },
-    {
-      "tipoTitulo": "Tesouro Selic",
       "dataVencimento": "01/03/2029",
       "dataBase": "21/08/2026",
       "taxaCompra": "0,03",
@@ -580,7 +560,27 @@
       "puCompra": 3559.88,
       "puVenda": 3545.01,
       "puBase": 3545.01
+    },
+    {
+      "tipoTitulo": "Tesouro Selic",
+      "dataVencimento": "01/03/2028",
+      "dataBase": "21/08/2026",
+      "taxaCompra": "0,01",
+      "taxaVenda": "0,02",
+      "puCompra": 19718.74,
+      "puVenda": 19705.51,
+      "puBase": 19705.51
+    },
+    {
+      "tipoTitulo": "Tesouro Selic",
+      "dataVencimento": "01/03/2027",
+      "dataBase": "21/08/2026",
+      "taxaCompra": "-0,00",
+      "taxaVenda": "0,01",
+      "puCompra": 19722.21,
+      "puVenda": 19710.95,
+      "puBase": 19710.95
     }
   ],
-  "updatedAt": "2026-08-24T21:22:28.001Z"
+  "updatedAt": "2026-08-25T21:20:53.470Z"
 }
